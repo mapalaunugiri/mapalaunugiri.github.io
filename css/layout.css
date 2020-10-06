@@ -98,6 +98,16 @@ ul{
     list-style: none;
     padding: 0;
 }
+.mdl-textfield{
+    position: relative;
+    font-size: 16px;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 300px;
+    max-width: 100%;
+    margin: 0;
+    padding: 0px;
+}
 .mdl-button--file input {
     cursor: pointer;
     height: 100%;
